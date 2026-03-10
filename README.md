@@ -142,12 +142,9 @@ https://shivamsphere.com
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/ShivamSpehre0074/ShivamSpehre0074/blob/output/github-contribution-grid-snake.svg)
-
----
-
 # 👀 Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShivamSpehre0074\&color=blue)
