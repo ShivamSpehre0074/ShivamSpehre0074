@@ -16,9 +16,6 @@ I specialize in **modern JavaScript ecosystems**, backend architecture, APIs, an
 
 I enjoy working across the entire stack — from designing responsive frontend interfaces to building robust backend systems and deploying them in production environments.
 
-🌐 Portfolio
-https://shivamsphere.com
-
 ---
 
 # 🛠 Frontend Tech Stack
@@ -37,129 +34,64 @@ https://shivamsphere.com
 # ⚙️ Backend Skills
 
 ### Node.js & Backend Architecture
-
-* Node.js fundamentals
-* CLI tools development
-* NPM modules
-* File system operations
-* Buffers & binary data
-* Streams & Event-driven architecture
+* Node.js fundamentals | CLI tools | NPM modules | Streams & Event-driven architecture
 
 ### Networking & Internet Fundamentals
+* HTTP / TCP / UDP | DNS | Client-server architecture | Socket programming
 
-* HTTP / TCP / UDP
-* DNS & Internet architecture
-* Client-server architecture
-* Networking protocols
-* Socket programming
+### Backend Framework & DB
+* Express.js | REST APIs | MongoDB | Mongoose | Redis
 
-### Backend Framework
-
-* Express.js
-* REST API development
-* Middleware architecture
-* Authentication systems
-
-### Databases
-
-* MongoDB
-* Mongoose
-* CRUD operations
-* Database architecture
-* Transactions & indexing
-
-### Authentication & Security
-
-* JWT
-* OAuth
-* Session-based authentication
-* Password hashing
-* Security headers
-* CSRF protection
-* XSS protection
-* Rate limiting
-
-### Caching & Performance
-
-* Redis
-* Session storage
-* Pub/Sub
-* Caching strategies
-
-### Cloud & Storage
-
-* AWS S3
-* CloudFront CDN
-* File storage systems
-* Signed URLs
-
-### Payment Integration
-
-* Razorpay
-* Stripe
-* Webhooks
-* Subscription systems
-
-### DevOps & Deployment
-
-* CI/CD pipelines
-* GitHub Actions
-* NGINX
-* PM2
-* AWS EC2
-* Cloud deployment
-
-### Serverless
-
-* AWS Lambda
-* API Gateway
-* Serverless architecture
-
-### Observability
-
-* Prometheus
-* Grafana
-* Logging systems
-* Distributed tracing
+### Security & DevOps
+* JWT | OAuth | AWS (EC2, S3, Lambda) | CI/CD | NGINX | Docker
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamSpehre0074\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamSpehre0074&show_icons=true&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShivamSpehre0074\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ShivamSpehre0074&theme=tokyonight)
 
 ---
 
 # 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSpehre0074\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSpehre0074&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/ShivamSpehre0074/ShivamSpehre0074/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ShivamSpehre0074/ShivamSpehre0074/output/github-contribution-grid-snake.svg)
+
+---
+
 # 👀 Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ShivamSpehre0074\&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=ShivamSpehre0074&color=blue)
 
 ---
 
 # 🚀 What I Love Building
 
 * Full stack web applications
-* scalable backend systems
+* Scalable backend systems
 * REST APIs
-* cloud based applications
-* developer tools
+* Cloud based applications
+* Developer tools
 
 ---
 
 ⭐ If you like my work consider giving a star to my repositories.
+
+
+
+
+
+
 
